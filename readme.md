@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Sputnik, mi amor
 
-**Web:**   (url github.io)
+**Web:**   mtmyrg.github.io
 
 **Autor:**  Marta Mayorga Fernández
 
@@ -37,13 +37,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github:
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
+El proyecto se abre con una introducción presentando varias imágenes situando la acción y los personajes.
+En el Menú
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
