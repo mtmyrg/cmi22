@@ -19,6 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Novela visual/minijuego.
 
 **Logotipo**
+
 ![logo](https://user-images.githubusercontent.com/106731755/172137458-7edb1c98-b4cb-4d03-9fc0-b945063d9e3e.png)
 
 
@@ -53,7 +54,7 @@ El proyecto se abre con una introducción presentando varias imágenes situando 
 
 ### 2.2. Esquema de navegación 
 
-(hacer lo del alfred
+(hacer)
 
 
 
