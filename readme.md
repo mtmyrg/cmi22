@@ -10,23 +10,23 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Sputnik, mi amor
 
-**Web:**   mtmyrg.github.io
+**Web:**    https://mtmyrg.github.io
 
 **Autor:**  Marta Mayorga Fernández
 
 **Resumen** : Este proyecto trata sobre un fragmento de la novela Sputnik, mi amor de Haruki Murakami.
 
-**Estilo/género:**  Novela interactiva.
+**Estilo/género:**  Novela visual/minijuego.
 
-**Logotipo** : 
+**Logotipo**
+![logo](https://user-images.githubusercontent.com/106731755/172137458-7edb1c98-b4cb-4d03-9fc0-b945063d9e3e.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px
+**Resolución:** 800x600px (No reescalable.)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, Firefox y Microsoft Edge.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 24,5MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -43,15 +43,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 El proyecto se abre con una introducción presentando varias imágenes situando la acción y los personajes.
-El juego consiste en guiar al jugador por el inicio de la trama de la novela de forma interactiva que comienza con el protagonista recibiendo una memoria misteriosa.
 
+(foto intro
+- Jugar: Te lleva al inicio de la trama de la novela que comienza con el protagonista recibiendo una llamada misteriosa a través de diálogos y minijuego.
 
+- Galería: Te lleva a una galería de diferentes imágenes de escenarios donde se desarrolla la novela.
+
+- Créditos: Sucesión de los créditos en scroll de arriba a abajo.
 
 ### 2.2. Esquema de navegación 
 
+(hacer lo del alfred
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -70,7 +73,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-
+- Juegos en 2D de toma de decisiones.
 
 
 **Motivación de la propuesta** 
@@ -81,7 +84,7 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 **Publico / audiencia**
 
-- Orientado a seguidores de la novela y del autor.
+- Orientado a seguidores de la novela y del autor (para todos los públicos).
 
 
 
@@ -101,14 +104,12 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que no funciona el video de youtube al poner el proyecto en github y que no se podría completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado que el personaje se desplace mediante las teclas de flechas de dirección.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Considero que el juego podría estar mejor (con animaciones y estética más pulidas, minijuegos más entretenidos, una trama más elaborada...) aunque estoy satisfecha con el resultado pues no pensaba que un proyecto de este tipo pudiera ser realizado al completo por una sola persona. Me gustaría investigar más sobre formas de hacer proyectos interactivos como novelas visuales, aunque en un programa más adecuado para ello.
 
 
 
@@ -123,19 +124,19 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  Pokemon Esmeralda
+* Musica:  Pokémon Esmeralda (música de la intro y sonido de los botones), youtube (sonido del teléfono)
 * Imágenes:  Pixabay y Google imágenes
-* Tipografía: Consolas
+* Tipografía: LucidaConsole y FinkHeavy (logo)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
 - Photoshop 2021
 - Clip studio paint
+- Audacity
 
+![licencia](https://user-images.githubusercontent.com/106731755/172141021-1baeed3e-7060-4234-97e5-a0fff1d90b02.jpg)
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
