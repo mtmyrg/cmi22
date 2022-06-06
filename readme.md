@@ -60,6 +60,7 @@ El proyecto se abre con una introducción presentando varias imágenes situando 
 
 
 
+![storyboard](https://user-images.githubusercontent.com/106731755/172192375-ee8574e9-fda1-4c36-a285-6cecc942b91b.jpg)
 
 
 
