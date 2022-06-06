@@ -56,11 +56,9 @@ El proyecto se abre con una introducción presentando varias imágenes situando 
 
 (hacer)
 
+![storyboard](https://user-images.githubusercontent.com/106731755/172192612-773fb896-398b-4143-80e5-748cd060d7ff.jpg)
 
 
-
-
-![storyboard](https://user-images.githubusercontent.com/106731755/172192375-ee8574e9-fda1-4c36-a285-6cecc942b91b.jpg)
 
 
 
