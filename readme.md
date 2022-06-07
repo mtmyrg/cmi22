@@ -93,7 +93,7 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 ### Etapa 2: Desarrollo / actividades realizadas
 
 
-- Juego: Para desarrollar el juego, comencé seleccionando y resumiento partes de la novela a las que pudiera añadirle tareas a completar por el jugador y que generaran cierta intriga por la continuación de la trama. Los personajes dibujados los diseñé a partir de las descripciones del libro y las imágenes de fondo son fotografías pixeladas posteriormente. El juego cuenta con tres películas htlm para que así fuera posible codificar los diferentes minijuegos sin que dieran mayores problemas.
+- Juego: Para desarrollar el juego, comencé seleccionando y resumiento partes de la novela a las que pudiera añadirle tareas a completar por el jugador y que generaran cierta intriga por la continuación de la trama. Los personajes dibujados los diseñé a partir de las descripciones del libro y las imágenes de fondo son fotografías pixeladas posteriormente. Para la intro dibujé dos pequeñas animaciones de los personajes además de la del logo del menú. El juego cuenta con tres películas htlm para que así fuera posible codificar los diferentes minijuegos sin que dieran mayores problemas.
 
 - Video: Para el video mi idea era enlazar un video que mostrara el camino del viaje del protagonista a partir de un video blog que seleccioné de youtube y otro video del mar para integrar la experiencia.
 
@@ -104,7 +104,7 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 ### Etapa 3: Problemas identificados
 
-He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que según la plataforma, funciona o no el video de youtube y otro sería que no se puede completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado el desplazamiento del personaje con las teclas de flechas de dirección.
+He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que según la plataforma, funciona o no el video de youtube y otro sería que no se puede completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado el desplazamiento del personaje con las teclas de flechas de dirección. Al importar los sprites en hipanni, se cambiaba la situación de cada sprite, lo que impedía que la secuencia de caminar no fuera fluida, aunque lo pude resolver de forma manual y algo tediosa.
 
 
 # 4. Conclusiones 
