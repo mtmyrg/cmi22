@@ -43,7 +43,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-El proyecto se abre con una introducción presentando varias imágenes situando la acción y los personajes.
+  El proyecto se abre con una introducción presentando varias imágenes situando la acción y los personajes.
 
 ![2menu](https://user-images.githubusercontent.com/106731755/172445560-13cd356c-a64e-4e7e-bceb-a60345114449.jpg)
 
@@ -64,7 +64,7 @@ El proyecto se abre con una introducción presentando varias imágenes situando 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+  Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -78,7 +78,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este proyecto es interesante porque da soporte audiovisual a una novela escrita de una forma interactiva.
+  Este proyecto es interesante porque da soporte audiovisual a una novela escrita de una forma interactiva.
 
 
 
@@ -104,12 +104,12 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 ### Etapa 3: Problemas identificados
 
-He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que según la plataforma, funciona o no el video de youtube y otro sería que no se puede completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado el desplazamiento del personaje con las teclas de flechas de dirección. Al importar los sprites en hipanni, se cambiaba la situación de cada sprite, lo que impedía que la secuencia de caminar no fuera fluida, aunque lo pude resolver de forma manual y algo tediosa.
+  He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que según la plataforma, funciona o no el video de youtube y otro sería que no se puede completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado el desplazamiento del personaje con las teclas de flechas de dirección. Al importar los sprites en hipanni, se cambiaba la situación de cada sprite, lo que impedía que la secuencia de caminar no fuera fluida, aunque lo pude resolver de forma manual y algo tediosa.
 
 
 # 4. Conclusiones 
 
-Considero que el juego podría estar mejor (con animaciones y estética más pulidas, minijuegos más entretenidos, una trama más elaborada...) aunque estoy satisfecha con el resultado pues no pensaba que un proyecto de este tipo pudiera ser realizado al completo por una sola persona. Me gustaría investigar más sobre formas de hacer proyectos interactivos como novelas visuales, aunque en un programa más adecuado para ello.
+  Considero que el juego podría estar mejor (con animaciones y estética más pulidas, minijuegos más entretenidos, una trama más elaborada...) aunque estoy satisfecha con el resultado pues no pensaba que un proyecto de este tipo pudiera ser realizado al completo por una sola persona. Me gustaría investigar más sobre formas de hacer proyectos interactivos como novelas visuales, aunque en un programa más adecuado para ello.
 
 
 
