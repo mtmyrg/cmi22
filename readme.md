@@ -54,9 +54,8 @@ El proyecto se abre con una introducción presentando varias imágenes situando 
 
 ### 2.2. Esquema de navegación 
 
-(hacer)
 
-![storyboard](https://user-images.githubusercontent.com/106731755/172192612-773fb896-398b-4143-80e5-748cd060d7ff.jpg)
+![storyboard2](https://user-images.githubusercontent.com/106731755/172445053-03db7109-a7fc-47be-9cb8-8dc8c72e234f.jpg)
 
 
 
