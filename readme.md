@@ -45,10 +45,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 El proyecto se abre con una introducción presentando varias imágenes situando la acción y los personajes.
 
-(foto intro
-- Jugar: Te lleva al inicio de la trama de la novela que comienza con el protagonista recibiendo una llamada misteriosa a través de diálogos y minijuego.
+![2menu](https://user-images.githubusercontent.com/106731755/172445560-13cd356c-a64e-4e7e-bceb-a60345114449.jpg)
 
-- Galería: Te lleva a una galería de diferentes imágenes de escenarios donde se desarrolla la novela.
+- Jugar: Te lleva al inicio de la trama de la novela que comienza con el protagonista recibiendo una llamada misteriosa y tiene que pasar por distintos diálogos y minijuegos.
+
+- Galería: Te lleva a una galería de diferentes imágenes de escenarios donde se desarrolla la novela original de Murakami.
 
 - Créditos: Sucesión de los créditos en scroll de arriba a abajo.
 
@@ -69,7 +70,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - Juegos en 2D de toma de decisiones.
@@ -91,19 +92,19 @@ Este proyecto es interesante porque da soporte audiovisual a una novela escrita 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: Para desarrollar el juego, comencé seleccionando y resumiento partes de la novela a las que pudiera añadirle tareas a completar por el jugador y que generaran cierta intriga por la continuación de la trama. Los personajes dibujados los diseñé a partir de las descripciones del libro y las imágenes de fondo son fotografías pixeladas posteriormente. El juego cuenta con tres películas htlm para que así fuera posible codificar los diferentes minijuegos sin que dieran mayores problemas.
 
+- Video: Para el video mi idea era enlazar un video que mostrara el camino del viaje del protagonista a partir de un video blog que seleccioné de youtube y otro video del mar para integrar la experiencia.
+
+- Instrucciones y ayuda al usuario: Al principio todos los diálogos avanzaban automáticamente. Sin embargo, decidí poner botones de continuar para que pudiera disponer de más tiempo para poder leerlos.
+
+- Menús y elementos de navegación (botones): Los elementos de navegación están dispuestos de manera que permitan continuar los diálogos, escoger respuestas, avanzar o retroceder las imágenes en la galería, volver a visualizar la introducción, o llevarte hasta la pantalla de créditos.
 
 
 ### Etapa 3: Problemas identificados
 
-He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que no funciona el video de youtube al poner el proyecto en github y que no se podría completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado que el personaje se desplace mediante las teclas de flechas de dirección.
+He encontrado problemas como que los logos de algunos botones seleccionados de las opciones que da Hippani se cambian al exportar por imágenes de los botones de jugar. Otros problemas es que según la plataforma, funciona o no el video de youtube y otro sería que no se puede completar el juego desde un dispositivo sin teclado como en móviles y tablets al haber codificado el desplazamiento del personaje con las teclas de flechas de dirección.
 
 
 # 4. Conclusiones 
